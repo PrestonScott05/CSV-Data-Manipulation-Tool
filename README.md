@@ -43,15 +43,3 @@ To compile and run this application, you will need a C++ compiler that supports 
 
 ```bash
 g++ -std=c++11 main.cpp ui.cpp utils.cpp -o csv_tool
-
-
-
-
-
-
-
-
-
-
-
-"# CSV-Data-Manipulation-Tool" 
